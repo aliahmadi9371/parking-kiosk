@@ -1,0 +1,13 @@
+
+auto lo
+iface lo inet loopback
+
+
+#My IP description
+# IPv4 address
+auto eth0
+iface eth0 inet static
+    address 192.168.1.64
+    netmask 255.255.255.0
+    gateway 192.168.1.254
+    dns-nameservers 192.168.1.254

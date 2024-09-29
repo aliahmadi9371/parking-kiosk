@@ -1,0 +1,1 @@
+http://localhost:19983/CheckPermissionWebService.asmx?WSDL

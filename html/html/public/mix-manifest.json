@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/admin/style.css": "/css/admin/style.css",
+    "/css/admin/base_css_admin/admin_base_css.css": "/css/admin/base_css_admin/admin_base_css.css",
+    "/js/admin/base_js/base_admin_js.js": "/js/admin/base_js/base_admin_js.js",
+    "/js/admin/plugin/afterglow/afterglow.min.js": "/js/admin/plugin/afterglow/afterglow.min.js",
+    "/js/admin/plugin/ckeditor/ckeditor.js": "/js/admin/plugin/ckeditor/ckeditor.js",
+    "/js/admin/plugin/ckeditor/sample.js": "/js/admin/plugin/ckeditor/sample.js"
+}
